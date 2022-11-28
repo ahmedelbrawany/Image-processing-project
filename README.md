@@ -1,2 +1,3 @@
 # Image-processing-project
-this project demonstrates multiple techniques in image processing
+  - This project demonstrates multiple techniques used in image processing.
+  - to run the program run image processing project.py
